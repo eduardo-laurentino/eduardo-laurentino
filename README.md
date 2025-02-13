@@ -6,8 +6,11 @@
 
 <div style="display:inline-block">
   <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api?username=eduardo-laurentino&show_icons=true&theme=radical"/>
-   <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-laurentino&layout=compact&langs_count=8&card_width=320&theme=radical"/>
+  <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-laurentino&layout=compact&langs_count=8&card_width=320&theme=radical"/>
 </div><br/>
+
+<div style="display:inline-block">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo-laurentino&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div><br/>
 
 ## Minhas redes sociais
