@@ -5,7 +5,7 @@
 - 🎓 Cientista da Computação
 
 <div style="display:inline-block">
-  <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api?username=eduardo-laurentino&show_icons=true&theme=radical"/>
+  
   <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-laurentino&layout=compact&langs_count=8&card_width=320&theme=radical"/>
 </div><br/><br/>
 
