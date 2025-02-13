@@ -1,7 +1,7 @@
 ## Hi there 👋, seja bem-vindo ao meu perfil! Eu sou Eduardo Laurentino
 - 💡 Sempre em busca de aprender algo novo e criar projetos inovadores. 
 
-- 🔥 Desenvolvedor Back-end
+- 🔥 Desenvolvedor Full Stack
 - 🎓 Cientista da Computação
 
 <a href="https://github.com/eduardo-laurentino/github-readme-stats">
