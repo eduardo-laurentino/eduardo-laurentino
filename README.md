@@ -7,11 +7,8 @@
 <div style="display:inline-block">
   <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api?username=eduardo-laurentino&show_icons=true&theme=radical"/>
   <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-laurentino&layout=compact&langs_count=8&card_width=320&theme=radical"/>
-</div><br/>
+</div><br/><br/>
 
-<div style="display:inline-block">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardo-laurentino&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
-</div><br/>
 
 ## Minhas redes sociais
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo811laurentino@gmail.com)
@@ -46,9 +43,9 @@
 
 ## Ferramentas de desenvolvimento
 <div style="display:inline-block">
-  <img align="center" alt="arduino ide" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img align="center" alt="replit ide" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
   <img align="center" alt="vscode ide" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" alt="android studio" src="https://img.shields.io/badge/Android_Studio-2D2D2D?style=for-the-badge&logo=android-studio&logoColor=3DDC84"/>
+  <img align="center" alt="arduino ide" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img align="center" alt="replit ide" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </div><br/>
 
