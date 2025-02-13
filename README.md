@@ -4,12 +4,11 @@
 - 🔥 Desenvolvedor Full Stack
 - 🎓 Cientista da Computação
 
-<a href="https://github.com/eduardo-laurentino/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-laurentino&theme=radical" />
-</a>
-<a href="https://github.com/eduardo-laurentino">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-laurentino&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+<div style="display:inline-block">
+  <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api?username=eduardo-laurentino&show_icons=true&theme=radical"/>
+   <img height=200 align="center" alt="arduino ide" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-laurentino&layout=compact&langs_count=8&card_width=320&theme=radical"/>
+</div><br/>
+</div><br/>
 
 ## Minhas redes sociais
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo811laurentino@gmail.com)
